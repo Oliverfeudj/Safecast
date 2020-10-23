@@ -1,0 +1,2 @@
+# Safecast
+Data of desasters
